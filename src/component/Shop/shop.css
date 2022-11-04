@@ -11,4 +11,16 @@
 
 .product-container p {
   font-weight: 500;
+
+}
+
+.cart-container {
+  background-color: #73a0be;
+  margin-top: 35px;
+  padding: 8px;
+  color: rgb(255, 242, 0);
+}
+
+.cart-container p {
+  font-size: 25px;
 }

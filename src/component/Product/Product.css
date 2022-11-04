@@ -4,7 +4,7 @@
   margin-left: 25px;
   border: 1px solid gainsboro;
   width: 300px;
-  height: 508px;
+  height: 535px;
 
 
 }
@@ -28,9 +28,20 @@
 }
 
 .btn {
-  margin: auto;
+  margin-bottom: 25px;
   text-align: center;
   width: 300px;
   height: 48px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 25px;
+  cursor: pointer;
+}
 
+.btn:hover {
+  background-color: bisque;
+
+}
+
+.product-dtl {
+  padding-left: 7px;
 }
