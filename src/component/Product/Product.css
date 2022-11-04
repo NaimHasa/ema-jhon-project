@@ -1,0 +1,36 @@
+.product {
+
+  margin-top: 35px;
+  margin-left: 25px;
+  border: 1px solid gainsboro;
+  width: 300px;
+  height: 508px;
+
+
+}
+
+.product img {
+  width: 286px;
+  height: 286px;
+  padding: 7px;
+}
+
+
+
+
+
+.product h1 {
+  font-size: 17px;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.btn {
+  margin: auto;
+  text-align: center;
+  width: 300px;
+  height: 48px;
+
+}
